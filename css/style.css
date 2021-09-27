@@ -31,9 +31,9 @@ a::before{
 
 #button{
     display: inline-block;
-    background-color: ;
+    background-color:#3c6382 ;
     padding: 16px 20px;
-    box-shadow: 5px 5px 0 #3c6382;
+    box-shadow: 5px 5px 0 #82ccdd;
     margin-right: 0;
 } 
 
