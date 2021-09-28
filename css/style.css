@@ -40,5 +40,10 @@ a::before{
 
 #button:hover{
     transform: scale(1.06);
+<<<<<<< HEAD
     background-color: #6a89cc;/*teste*/   
 }
+=======
+    background-color: #6a89cc;   
+}
+>>>>>>> 9e01ca8227397bac2d6195c6f67abdf0d089c53e
